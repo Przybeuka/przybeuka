@@ -1,7 +1,7 @@
 <h1 align="center">Hello World!! 👋</h1>
 
 
-### Sou o Jeander Kauan Przybeuka!! 
+### Sou o Jeander Kauan Przybeuka!! E a seguir conto um pouco sobre mim.
 
 - 🔰 Oficial do Exército Brasileiro 🪖
 - 👨🏼‍💻 Estudante de Análise e Desenvolvimento de Sistemas. 👾
