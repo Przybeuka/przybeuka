@@ -1,14 +1,15 @@
 <h1 align="center">Hello World!! 👋</h1>
 
-### Sou o Jeander Kauan Przybeuka!! 
-- Oficial do Exército Brasileiro 🪖🔰
-- Estudante de Análise e Desenvolvimento de Sistemas. 👨‍💻
-  
 
+### Sou o Jeander Kauan Przybeuka!! 
+
+- 🔰 Oficial do Exército Brasileiro 🪖
+- 👨🏼‍💻 Estudante de Análise e Desenvolvimento de Sistemas. 👾
 
 ## Conecte-se comigo
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jeanderkauan/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/jeanderkauan/)
 
 
 ## Habilidades
