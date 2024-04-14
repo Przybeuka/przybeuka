@@ -1,7 +1,7 @@
 ###
 
 <h1 align="center">Hello World !!!👋</h1>
-<div>
+<div align="justify">
   <h2> Sou o Jeander Kauan Przybeuka!! A seguir, conto um pouco sobre mim. </h2> 
   <li>🔰 Oficial do Exército Brasileiro. 🪖</li>
   <p align="justify"> Oriundo do Núcleo de Preparação de Oficiais da Reserva (NPOR) - 2020, me formei em 3º colocado geral do curso, sendo selecioiando para me tornar Oficial do Exército Brasileiro.</p>
