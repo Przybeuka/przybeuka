@@ -4,9 +4,9 @@
 <div align="justify">
   <h2> Sou o Jeander Kauan Przybeuka!! A seguir, conto um pouco sobre mim. </h2> 
   <li>🔰 Oficial do Exército Brasileiro. 🪖</li>
-  <p align="justify"> Oriundo do Núcleo de Preparação de Oficiais da Reserva (NPOR) - 2020, me formei em 3º colocado geral do curso, sendo selecioiando para me tornar Oficial do Exército Brasileiro.</p>
+  <p> Oriundo do Núcleo de Preparação de Oficiais da Reserva (NPOR) - 2020, me formei em 3º colocado geral do curso, sendo selecioiando para me tornar Oficial do Exército Brasileiro.</p>
   <li>👨🏼‍💻 Estudante de Análise e Desenvolvimento de Sistemas. 👾</li>
-  <p align="justify"> Iniciei meus estudos no mundo da Tecnologia da Informação no ano de 2019. Foi algo totalmente novo para mim, pois não tinha conhecimento anterior. Enfrentei atrasos na formação devido à pandemia, estou me formando em 2024 e pretendo iniciar outra formação acadêmica neste mesmo ano.</p>
+  <p> Iniciei meus estudos no mundo da Tecnologia da Informação no ano de 2019. Foi algo totalmente novo para mim, pois não tinha conhecimento anterior. Enfrentei atrasos na formação devido à pandemia, estou me formando em 2024 e pretendo iniciar outra formação acadêmica neste mesmo ano.</p>
 </div>
 
 ###
