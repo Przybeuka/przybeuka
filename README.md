@@ -1,10 +1,12 @@
-<h1 align="center">Hello World !!!👋</h1>
+![image](https://github.com/user-attachments/assets/cb2c52fe-7c0a-45c7-805f-d0b4aba44305)<h1 align="center">Hello World !!!👋</h1>
 <div align="justify">
   <h2> Sou o Jeander Kauan Przybeuka!! A seguir, conto um pouco sobre mim. </h2> 
   <li>🔰 Oficial do Exército Brasileiro. 🪖</li>
   <p> Oriundo do Núcleo de Preparação de Oficiais da Reserva (NPOR) - 2020, me formei em 3º colocado geral do curso, sendo selecioiando para me tornar Oficial do Exército Brasileiro.</p>
-  <li>👨🏼‍💻 Estudante de Análise e Desenvolvimento de Sistemas. 👾</li>
-  <p> Iniciei meus estudos no mundo da Tecnologia da Informação no ano de 2019. Foi algo totalmente novo para mim, pois não tinha conhecimento anterior. Enfrentei atrasos na formação devido à pandemia, estou me formando em 2024 e pretendo iniciar outra formação acadêmica neste mesmo ano.</p>
+  <li>👨🏼‍💻 Analista de Sistemas. 👾</li>
+  <p> Iniciei meus estudos no mundo da Tecnologia da Informação no ano de 2019. Foi algo totalmente novo para mim, pois não tinha conhecimento anterior. Enfrentei atrasos na formação devido à pandemia, me formando em 2024.</p>
+  <li>💻 Estudante de Engenharia de Software 🤖</li>
+  <p> Estudando atualmente Engenharia de Software para aperfeiçoamento técnico profissional, buscando conhecimento necessário para o mercado de trabalho.</p>
 </div>
 
 ###
