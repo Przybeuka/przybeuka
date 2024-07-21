@@ -1,4 +1,4 @@
-![image](https://github.com/user-attachments/assets/cb2c52fe-7c0a-45c7-805f-d0b4aba44305)<h1 align="center">Hello World !!!👋</h1>
+<h1 align="center">Hello World !!!👋</h1>
 <div align="justify">
   <h2> Sou o Jeander Kauan Przybeuka!! A seguir, conto um pouco sobre mim. </h2> 
   <li>🔰 Oficial do Exército Brasileiro. 🪖</li>
